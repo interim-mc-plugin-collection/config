@@ -1,0 +1,20 @@
+{
+  "name": "Dep_example_8",
+  "shortName": "dep_example_8",
+  "version": "0.0.1",
+  "author": "Daniel Hammerschmidt",
+  "description": "0",
+  "hasAdminPanel": false,
+  "homepage": "https://github.com/interim-mc-plugin-collection/dep_example_8",
+  "changelogUrl": "https://raw.githubusercontent.com/interim-mc-plugin-collection/dep_example_8/refs/heads/main/CHANGELOG.md",
+  "configUrl": "https://raw.githubusercontent.com/interim-mc-plugin-collection/config/refs/heads/main/config/8/config.json",
+  "downloadUrl": "https://github.com/interim-mc-plugin-collection/dep_example_8/archive/refs/heads/main.zip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/interim-mc-plugin-collection/dep_example_8.git"
+  },
+  "versionHistoryUrl": "https://github.com/interim-mc-plugin-collection/dep_example_8/tags",
+  "meshCentralCompat": ">=1.1.36",
+  "dependencies": {
+  }
+}
