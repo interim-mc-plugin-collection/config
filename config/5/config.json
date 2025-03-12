@@ -16,5 +16,6 @@
   "versionHistoryUrl": "https://github.com/interim-mc-plugin-collection/dep_example_5/tags",
   "meshCentralCompat": ">=1.1.36",
   "dependencies": {
+    "dep_example_5": "https://raw.githubusercontent.com/interim-mc-plugin-collection/config/refs/heads/main/config/5/config.json"
   }
 }
