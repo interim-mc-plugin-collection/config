@@ -17,6 +17,7 @@
   "meshCentralCompat": ">=1.1.36",
   "dependencies": {
     "dep_example_1": "https://raw.githubusercontent.com/interim-mc-plugin-collection/config/refs/heads/main/config/1/config.json",
-    "dep_example_2": "https://raw.githubusercontent.com/interim-mc-plugin-collection/config/refs/heads/main/config/2/config.json"
+    "dep_example_2": "https://raw.githubusercontent.com/interim-mc-plugin-collection/config/refs/heads/main/config/2/config.json",
+    "dep_example_4": "https://raw.githubusercontent.com/interim-mc-plugin-collection/config/refs/heads/main/config/4/config.json"
   }
 }
